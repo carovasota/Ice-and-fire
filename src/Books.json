@@ -1,0 +1,46 @@
+[
+	{
+		"Id": "01",
+		"Title": "100 Años de soledad",
+		"Description": "Mucho antes de convertirse en el terror del Pais de las Maravillas, la Reina de Corazones era una chica que tan solo queria enamorarse. Catherine es una de las jovenes mas deseadas de Corazones. Es la favorita del Rey, pero ella quiere vivir bajo sus propias reglas y tomar las riendas de su vida. Pero, ¿a que precio?. Meyer combino elementos de la oscuridad y de la luz, del destino y del libre albedrio, del amor y del odio, en una historia inolvidable sobre como la Reina de Corazones dejo de ser una joven que soñaba con el verdadero amor y la libertad y se convirtio en una cruel mujer a la que todos recuerdan por su frase 'Que le corten la cabeza'.",
+		"Author": "Marissa Meyer",
+		"Edition": "2017",
+		"Editorial": "V&R Ediciones",
+		"Pages": "592",
+		"Category": "Novela de Amor",
+		"Image": "https://images.cdn3.buscalibre.com/fit-in/360x360/c2/3c/c23c70613dc1a56084d04b3ce04cc890.jpg"
+	},
+	{
+		"Id": "02",
+		"Title": "El Economista Callejero",
+		"Description": "Axel Kaiser, plantea lecciones básicas de economía que, a su juicio, deberían formar parte de la cultura general de toda persona. Una obra racional y lúcida cuya lectura seguro generará controversia. Conceptos básicos de economía como: precios, capital, demanda y oferta, trabajo, inflación e innovación son explicados en un lenguaje simple y directo de modo de hacerlos comprensibles para el público general. ",
+		"Author": "Axel Kaiser",
+		"Edition": "2021",
+		"Editorial": "El mercurio",
+		"Pages": "127",
+		"Category": "Economía política",
+		"Image": "https://images.cdn2.buscalibre.com/fit-in/360x360/b4/a3/b4a3ce33418f53cd820cde1db178a748.jpg"
+	},
+  {
+		"Id": "03",
+		"Title": "100 Años de soledad",
+		"Description": "Mucho antes de convertirse en el terror del Pais de las Maravillas, la Reina de Corazones era una chica que tan solo queria enamorarse. Catherine es una de las jovenes mas deseadas de Corazones. Es la favorita del Rey, pero ella quiere vivir bajo sus propias reglas y tomar las riendas de su vida. Pero, ¿a que precio?. Meyer combino elementos de la oscuridad y de la luz, del destino y del libre albedrio, del amor y del odio, en una historia inolvidable sobre como la Reina de Corazones dejo de ser una joven que soñaba con el verdadero amor y la libertad y se convirtio en una cruel mujer a la que todos recuerdan por su frase 'Que le corten la cabeza'.",
+		"Author": "Marissa Meyer",
+		"Edition": "2017",
+		"Editorial": "V&R Ediciones",
+		"Pages": "592",
+		"Category": "Novela de Amor",
+		"Image": "https://images.cdn3.buscalibre.com/fit-in/360x360/c2/3c/c23c70613dc1a56084d04b3ce04cc890.jpg"
+	},
+	{
+		"Id": "04",
+		"Title": "El Economista Callejero",
+		"Description": "Axel Kaiser, plantea lecciones básicas de economía que, a su juicio, deberían formar parte de la cultura general de toda persona. Una obra racional y lúcida cuya lectura seguro generará controversia. Conceptos básicos de economía como: precios, capital, demanda y oferta, trabajo, inflación e innovación son explicados en un lenguaje simple y directo de modo de hacerlos comprensibles para el público general.",
+		"Author": "Axel Kaiser",
+		"Edition": "2021",
+		"Editorial": "El mercurio",
+		"Pages": "127",
+		"Category": "Economía política",
+		"Image": "https://images.cdn2.buscalibre.com/fit-in/360x360/b4/a3/b4a3ce33418f53cd820cde1db178a748.jpg"
+	}
+]
